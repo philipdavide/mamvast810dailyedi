@@ -1,0 +1,11 @@
+C:\Users\Philip.Davide\Documents\Visual Studio 2019\Projects\MamVast810DailyEDI\MamVast810DailyEDI\bin\Debug\MamVast810DailyEDI.exe.config
+C:\Users\Philip.Davide\Documents\Visual Studio 2019\Projects\MamVast810DailyEDI\MamVast810DailyEDI\bin\Debug\MamVast810DailyEDI.exe
+C:\Users\Philip.Davide\Documents\Visual Studio 2019\Projects\MamVast810DailyEDI\MamVast810DailyEDI\bin\Debug\MamVast810DailyEDI.pdb
+C:\Users\Philip.Davide\Documents\Visual Studio 2019\Projects\MamVast810DailyEDI\MamVast810DailyEDI\bin\Debug\MamVast810DailyEDI.xml
+C:\Users\Philip.Davide\Documents\Visual Studio 2019\Projects\MamVast810DailyEDI\MamVast810DailyEDI\bin\Debug\dbClassNET.dll
+C:\Users\Philip.Davide\Documents\Visual Studio 2019\Projects\MamVast810DailyEDI\MamVast810DailyEDI\obj\Debug\MamVast810DailyEDI.Resources.resources
+C:\Users\Philip.Davide\Documents\Visual Studio 2019\Projects\MamVast810DailyEDI\MamVast810DailyEDI\obj\Debug\MamVast810DailyEDI.vbproj.GenerateResource.Cache
+C:\Users\Philip.Davide\Documents\Visual Studio 2019\Projects\MamVast810DailyEDI\MamVast810DailyEDI\obj\Debug\MamVast810DailyEDI.exe
+C:\Users\Philip.Davide\Documents\Visual Studio 2019\Projects\MamVast810DailyEDI\MamVast810DailyEDI\obj\Debug\MamVast810DailyEDI.xml
+C:\Users\Philip.Davide\Documents\Visual Studio 2019\Projects\MamVast810DailyEDI\MamVast810DailyEDI\obj\Debug\MamVast810DailyEDI.pdb
+C:\Users\Philip.Davide\Documents\Visual Studio 2019\Projects\MamVast810DailyEDI\MamVast810DailyEDI\obj\Debug\MamVast810DailyEDI.vbprojResolveAssemblyReference.cache
